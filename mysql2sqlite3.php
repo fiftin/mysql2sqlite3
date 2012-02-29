@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by JetBrains PhpStorm.
- * User: fiftin
- * Date: 02.10.11
- * Time: 23:12
- * To change this template use File | Settings | File Templates.
- */
 
 $SQLITE3 = null;
 
