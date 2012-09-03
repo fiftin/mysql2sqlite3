@@ -1,10 +1,6 @@
 <?php
-
 $SQLITE3 = null;
-
-
 // Start of mysql v.1.0
-
 /**
  * (PHP 4, PHP 5)<br/>
  * Open a connection to a MySQL Server
@@ -929,4 +925,3 @@ define ('MYSQL_CLIENT_INTERACTIVE', 1024);
 define ('MYSQL_CLIENT_IGNORE_SPACE', 256);
 
 // End of mysql v.1.0
-?>
